@@ -1,0 +1,72 @@
+
+#name{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+color: rgb(81, 81, 215);
+width: 70%; 
+letter-spacing: 1.2rem; 
+padding-left: 5%;
+text-shadow: -1px 1px rgb(0, 0, 0)
+
+}
+
+#nameStyles{
+font-size: 30px;
+font-weight: bold;
+
+}
+
+
+
+#tab {
+    background-color: lightblue;
+    width: 100%; 
+    padding: 0; 
+
+
+}
+
+.tableData{
+text-align: center; 
+margin: 0;
+width: 10%
+
+
+}
+.tableData:hover{
+
+    border-bottom: 8px solid blue; 
+    border-radius: 10%; 
+
+}
+
+
+.homeData {
+text-align: center;
+
+}
+
+a {
+    color: black; 
+    text-decoration: none;
+}
+
+
+body {
+    margin: 0; 
+}
+
+.head:hover {
+
+
+
+}
+
+.pad {
+    padding: 5px; 
+}
+
+#Earth{
+    Width: 500px; 
+    Height: 375px;   
+}
+
