@@ -3,7 +3,7 @@
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 color: rgb(81, 81, 215);
 width: 70%; 
-letter-spacing: 1.2rem; 
+letter-spacing: 1rem; 
 padding-left: 5%;
 text-shadow: -1px 1px rgb(0, 0, 0)
 
@@ -30,8 +30,13 @@ text-align: center;
 margin: 0;
 width: 10%
 
-
 }
+
+
+.letter{
+font-size: 37px; 
+}
+
 .tableData:hover{
 
     border-bottom: 8px solid blue; 
